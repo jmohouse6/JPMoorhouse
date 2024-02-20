@@ -1,21 +1,21 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "I'm sharing my tech adventures and you should follow along."
+  content: "JPMoorhouse created with Astro and TailwindCSS, Docker, and I'm trying to learn more from end technologies."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Find out more"
+    link: "https://moorhousecoding/"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What is markdown? Super unique...editing"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "I'm starting to wonder if a CMS is even needed on the front end.  Open VS code.  Connect Copilot and get some auto suggestions.  Seems like everyone should be a self starter."
     bulletpoints:
-      - "10+ Pre-build pages"
+      - "Javascript"
       - "95+ Google Pagespeed Score"
       - "Build with Astro and TailwindCSS for easy and customizable styling"
       - "Fully responsive on all devices"
@@ -23,8 +23,8 @@ features:
       - "**Open-source and free** for personal and commercial use"
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
+      label: "Moorhouse Coating"
+      link: "https://moorhousecoating.com"
 
   - title: "Discover the Key Features Of Astro"
     image: "/images/service-2.png"
@@ -36,11 +36,11 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      link: "https://moorhousepainting.com"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Top Ten reasons to work with PaintKrew"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "PaintKrew is making paint easy."
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
       - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
