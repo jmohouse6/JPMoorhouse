@@ -1,10 +1,10 @@
-<h1 align=center>Astro + Tailwind CSS + TypeScript Starter and Boilerplate</h1>
+<h1 align=center>JPMoorhouse Astro + Tailwind CSS + TypeScript</h1>
 
-<p align=center>Astroplate is a free starter template built with Astro, TailwindCSS & TypeScript, providing everything you need to jumpstart your Astro project and save valuable time.</p>
+<p align=center>Giving it my best attempt to stay current on the Astro.build front.</p>
 
-<p align=center>Made with ♥ by <a href="https://zeon.studio/">Zeon Studio</a></p>
+<p align=center>Made with ♥ by <a href="https://moorhousecoding.com/">Moorhouse Coding</a></p>
 
-<p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
+<p align=center> I believe there is hope for all to code.  </p>
 
 <h2 align="center"> <a target="_blank" href="https://astroplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-astroplate-netlify-app/yzx3foum3w?form_factor=desktop">Page Speed (100%)🚀</a>
 </h2>
@@ -25,7 +25,7 @@
 
 ## 📌 Key Features
 
-- 👥 Multi-Authors
+- 👥 Multi-Authors (You can help me contribute)
 - 🎯 Similar Posts Suggestion
 - 🔍 Search Functionality
 - 🌑 Dark Mode
